@@ -64,8 +64,8 @@
 
 ## 👀 Team Member
 
-| Name | Photo | Role | GitHub |
-| --- | --- | --- | --- |
+| Name | Role | GitHub |
+| --- | --- | --- |
 | 이원찬 |  | Leader, Frontend, Backend, DevOps | [이원찬's GitHub](https://github.com/Leewonchan14) |
 | 김경민 |  | Backend, DevOps | [김경민's GitHub](https://github.com/rvbear) |
 | 정현지 |  | Frontend | [정현지's GitHub](https://github.com/HJ1218) |
