@@ -29,10 +29,6 @@
 
 <br>
 
-## 🎞️ Demo
-
-<br>
-
 ## 📜 System Architechture
 
 <img width="550" alt="image (4)" src="https://github.com/user-attachments/assets/2caed003-85f2-4cde-aa2a-75c9a4f96e94">
